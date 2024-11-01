@@ -6,6 +6,8 @@ const _layout = () => {
   return (
     <Stack screenOptions={{headerShown:false}}>
       <Stack.Screen name='Exercises' options={{presentation:'fullScreenModal'}}/>
+      <Stack.Screen name='ExerciseDetails' options={{presentation:'modal'}}/>
+      
     </Stack>
   )
 }
