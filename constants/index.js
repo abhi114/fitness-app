@@ -55,7 +55,7 @@ export const dummyExcersies = [
   {
     bodyPart: "back",
     equipment: "cable",
-    gifUrl: "https://v2.exercisedb.io/image/FzfH3T8HOWzeoI",
+    gifUrl: "https://v2.exercisedb.io/image/NRAculvb8uOZ8q",
     id: "0007",
     name: "alternate lateral pulldown",
     target: "lats",
@@ -71,7 +71,7 @@ export const dummyExcersies = [
   {
     bodyPart: "back",
     equipment: "body weight",
-    gifUrl: "https://v2.exercisedb.io/image/AM7Q0gDB1FnbxH",
+    gifUrl: "https://v2.exercisedb.io/image/inqGPYNTrBUtTF",
     id: "3293",
     name: "archer pull up",
     target: "lats",
@@ -88,7 +88,7 @@ export const dummyExcersies = [
   {
     bodyPart: "back",
     equipment: "leverage machine",
-    gifUrl: "https://v2.exercisedb.io/image/zOZbAWq05w-IqL",
+    gifUrl: "https://v2.exercisedb.io/image/6j64HgWdoXrmoY",
     id: "0015",
     name: "assisted parallel close grip pull-up",
     target: "lats",
@@ -106,7 +106,7 @@ export const dummyExcersies = [
   {
     bodyPart: "back",
     equipment: "leverage machine",
-    gifUrl: "https://v2.exercisedb.io/image/f2g2wzYpaPnmq-",
+    gifUrl: "https://v2.exercisedb.io/image/V8Qat3LfpwpIuX",
     id: "0017",
     name: "assisted pull-up",
     target: "lats",
@@ -124,7 +124,7 @@ export const dummyExcersies = [
   {
     bodyPart: "back",
     equipment: "leverage machine",
-    gifUrl: "https://v2.exercisedb.io/image/2WEM78WSrebtzx",
+    gifUrl: "https://v2.exercisedb.io/image/8XtQsoN4ftjffK",
     id: "1431",
     name: "assisted standing chin-up",
     target: "lats",
@@ -142,7 +142,7 @@ export const dummyExcersies = [
   {
     bodyPart: "back",
     equipment: "leverage machine",
-    gifUrl: "https://v2.exercisedb.io/image/xp--nupjQVgdQe",
+    gifUrl: "https://v2.exercisedb.io/image/dcogwHM3bj1P2V",
     id: "1432",
     name: "assisted standing pull-up",
     target: "lats",
@@ -160,7 +160,7 @@ export const dummyExcersies = [
   {
     bodyPart: "back",
     equipment: "stability ball",
-    gifUrl: "https://v2.exercisedb.io/image/rd30VP80WfN4U1",
+    gifUrl: "https://v2.exercisedb.io/image/J4TMCLgeehWcJc",
     id: "1314",
     name: "back extension on exercise ball",
     target: "spine",
@@ -176,7 +176,7 @@ export const dummyExcersies = [
   {
     bodyPart: "back",
     equipment: "body weight",
-    gifUrl: "https://v2.exercisedb.io/image/RvokJ2Nkr8ZXz9",
+    gifUrl: "https://v2.exercisedb.io/image/0CHSKDhP88eKJx",
     id: "3297",
     name: "back lever",
     target: "upper back",
@@ -193,7 +193,7 @@ export const dummyExcersies = [
   {
     bodyPart: "back",
     equipment: "body weight",
-    gifUrl: "https://v2.exercisedb.io/image/rsZmpmOza9w2xB",
+    gifUrl: "https://v2.exercisedb.io/image/eMHQPISUJrUDKe",
     id: "1405",
     name: "back pec stretch",
     target: "lats",
@@ -211,7 +211,7 @@ export const dummyExcersies = [
   {
     bodyPart: "back",
     equipment: "band",
-    gifUrl: "https://v2.exercisedb.io/image/kSmBqilUYF5Znw",
+    gifUrl: "https://v2.exercisedb.io/image/b4wCmqVyve6KWB",
     id: "0970",
     name: "band assisted pull-up",
     target: "lats",
